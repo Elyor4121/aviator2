@@ -1,0 +1,32 @@
+Uri: https://aviator-next.spribegaming.com/
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\index.htm
+Content Type: text/html
+
+Uri: https://aviator-next.spribegaming.com/assets/ico/favicon.png
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\assets\ico\favicon.png
+Content Type: image/png
+
+Uri: https://aviator-next.spribegaming.com/main.0e243928beb8cc1d.js
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\main.0e243928beb8cc1d.js
+Content Type: application/javascript
+
+Uri: https://aviator-next.spribegaming.com/polyfills.48beaefad335fdd8.js
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\polyfills.48beaefad335fdd8.js
+Content Type: application/javascript
+
+Uri: https://aviator-next.spribegaming.com/Roboto-Bold.88d61d57d557fec8.ttf
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\Roboto-Bold.88d61d57d557fec8.ttf
+Content Type: application/font-sfnt
+
+Uri: https://aviator-next.spribegaming.com/Roboto-Regular.ae3a8db9374784f0.ttf
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\Roboto-Regular.ae3a8db9374784f0.ttf
+Content Type: application/font-sfnt
+
+Uri: https://aviator-next.spribegaming.com/runtime.b3e4a4f12e39ab5f.js
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\runtime.b3e4a4f12e39ab5f.js
+Content Type: application/javascript
+
+Uri: https://aviator-next.spribegaming.com/styles.e27ccec92ae287f2.css
+File Name: C:\Downloaded Web Sites\aviator-next.spribegaming.com\styles.e27ccec92ae287f2.css
+Content Type: text/css
+
